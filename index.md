@@ -67,7 +67,11 @@ __Disclaimer__: This webpage started as a side project. We might not have confir
 2. [Telescope Simulator 2](https://telescopius.com/telescope-simulator)
 3. [Field of View Calculator](https://astronomy.tools/calculators/field_of_view/)
 4. [TELESCOPE CALCULATOR: HOW DOES YOUR TELESCOPE PERFORM?](https://skyandtelescope.org/observing/skyandtelescope-coms-scope-calculator/)
-5. 
+
+## Astronomy Clubs in India
+
+To be filled in . . .
+ 
 
 ## Miscellaneous 
 

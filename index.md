@@ -61,6 +61,14 @@ __Disclaimer__: This webpage started as a side project. We might not have confir
 ## Astronomy Education and Outreach
 1. [education.com](https://www.education.com/resources/earth-science/?referral_url=kidsastronomy.com)
 
+## My Telescope
+
+1. [Telescope Simulator 1](https://www.stelvision.com/en/telescope-simulator/)
+2. [Telescope Simulator 2](https://telescopius.com/telescope-simulator)
+3. [Field of View Calculator](https://astronomy.tools/calculators/field_of_view/)
+4. [TELESCOPE CALCULATOR: HOW DOES YOUR TELESCOPE PERFORM?](https://skyandtelescope.org/observing/skyandtelescope-coms-scope-calculator/)
+5. 
+
 ## Miscellaneous 
 
 1. [The (Astronomy) Acknowledgment Generator](http://astrofrog.github.io/acknowledgment-generator/)

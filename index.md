@@ -5,9 +5,9 @@ description: An information platform for Astronomy in India.
 ---
 # Welcome 
 
-We welcome you to 'Astronomy In India' website. The webpage aims to offer you with maximum information regarding Astronomy in India. Currently, the website is under development and not organized in any specific manner. A work in progress.
+We welcome you to 'Astronomy In India' website. The webpage aims to offer you with information regarding Astronomy in India. Currently, the website is under development and not organized in any specific manner. A work in progress. At this point, we provide information related to various astronomy related programs (masters, phd, post-doc) in India in addition to links to various tools and useful webpages related to Astronomy in general. Slowly we hope to fill in the gaps. If anyone is interested in contributing to this webpage in anyway, kindly email us to astronomy.in.india.info@gmail.com.
 
-__Disclaimer__: This webpage started as a side project. We might not have confirmed the validity of all the information provided here. Therefore, we encourage users to check before using them. We will be happy if you can let us know if you find something which is untrue. 
+__Disclaimer__: This webpage started as a side project/hobby/learning web-design. We might not have confirmed the validity of all the information provided here. Therefore, we encourage users to check before using them. We will be happy if you can let us know if you find something which is untrue. 
 
 ## India
 1. [Astronomy research institutes in India](./pages/institutes.md)

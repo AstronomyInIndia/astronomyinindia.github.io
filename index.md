@@ -18,11 +18,10 @@ __Disclaimer__: This webpage started as a side project/hobby/learning web-design
 6. space-missions - past, present, and future
 7. [Ground-Based Telescopes in India](./pages/telescopes_india.md)
 8. [High Performance Computing](./pages/computing.md)
-9. computational facilities
-10. [International collaboration](./pages/india_int_collab.md)
-12. internship opportunities
-13. outreach - astronomy for school children, public, etc.
-14. history of Indian Astronomy
+9. [International collaboration](./pages/india_int_collab.md)
+10. internship opportunities
+12. outreach - astronomy for school children, public, etc.
+13. history of Indian Astronomy
 
 
 ## General
@@ -49,9 +48,20 @@ __Disclaimer__: This webpage started as a side project/hobby/learning web-design
 7. [Open Astronomy Schools](https://open-astronomy-schools.org/tools/) -  collection of high quality educational activities and resources to use in Astronomy education.
 8. [ImageJ](https://imagej.nih.gov/ij/download.html) - an open source image processing program designed for scientific multidimensional images.
 9. [Astronomy Online](http://astronomyonline.org/AstronomySoftware.asp) - links to many astronomy softwares.
-10. [Astrophysics Source Code Library](https://ascl.net) - a free online registry for source codes of interest to astronomers and astrophysicists.
-11. [Astronomy and numerical software source codes](http://www.moshier.net)
-12. [AstroWeb: Astronomy software servers](http://cdsweb.u-strasbg.fr/astroWeb/astroweb/software.html)
+10. [AstroWeb: Astronomy software servers](http://cdsweb.u-strasbg.fr/astroWeb/astroweb/software.html)
+11. Astronomy Codes:
+    (1) [Astrophysics Source Code Library](https://ascl.net) - a free online registry for source codes of interest to astronomers and astrophysicists.
+    (2) [Astronomy and numerical software source codes](http://www.moshier.net)
+    (3) [The CLoudy Project]( https://pa.as.uky.edu/gary/cloudy-project)
+    (4) [GADGET code](https://www.h-its.org/2014/10/29/gadget-code/)
+    (5) [PLUTO code](http://plutocode.ph.unito.it)
+    (6) [Nyx code](https://amrex-astro.github.io/Nyx/docs_html/index.html)
+    (7) [Amrvis code](https://amrex-codes.github.io/amrex/docs_html/Visualization.html)
+    (8) [AMReX code](https://ccse.lbl.gov/AMReX/index.html)
+    (9) [FLASH code](http://flash.uchicago.edu/site/)
+    (10) [The RAMSES code](https://www.ics.uzh.ch/~teyssier/ramses/RAMSES.html)
+12. [The Enzo Project](https://enzo-project.org)
+13. [The yt project](https://yt-project.org)
 
 ## Astronomy Websites
 1. [Astronomy Online](http://astronomyonline.org/default.asp?Cate=Home)

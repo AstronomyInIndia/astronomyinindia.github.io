@@ -17,7 +17,7 @@ __Disclaimer__: This webpage started as a side project/hobby/learning web-design
 5. instrumentation in india - ground-based, space-based, x-ray, uv-, visible-, nir-, fir, radio-, solar, etc.
 6. space-missions - past, present, and future
 7. [Ground-Based Telescopes in India](./pages/telescopes_india.md)
-8. observing possibilities
+8. [High Performance Computing](./pages/computing.md)
 9. computational facilities
 10. [International collaboration](./pages/india_int_collab.md)
 12. internship opportunities

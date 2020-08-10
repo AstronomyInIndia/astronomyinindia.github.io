@@ -52,7 +52,7 @@ __Disclaimer__: This webpage started as a side project/hobby/learning web-design
 11. Astronomy Codes:
     1. [Astrophysics Source Code Library](https://ascl.net) - a free online registry for source codes of interest to astronomers and astrophysicists.
     2. [Astronomy and numerical software source codes](http://www.moshier.net)
-    3. [The CLoudy Project]( https://pa.as.uky.edu/gary/cloudy-project)
+    3. [The Cloudy Project]( https://pa.as.uky.edu/gary/cloudy-project)
     4. [GADGET code](https://www.h-its.org/2014/10/29/gadget-code/)
     5. [PLUTO code](http://plutocode.ph.unito.it)
     6. [Nyx code](https://amrex-astro.github.io/Nyx/docs_html/index.html)

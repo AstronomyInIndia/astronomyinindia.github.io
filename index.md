@@ -50,16 +50,16 @@ __Disclaimer__: This webpage started as a side project/hobby/learning web-design
 9. [Astronomy Online](http://astronomyonline.org/AstronomySoftware.asp) - links to many astronomy softwares.
 10. [AstroWeb: Astronomy software servers](http://cdsweb.u-strasbg.fr/astroWeb/astroweb/software.html)
 11. Astronomy Codes:
-    (1) [Astrophysics Source Code Library](https://ascl.net) - a free online registry for source codes of interest to astronomers and astrophysicists.
-    (2) [Astronomy and numerical software source codes](http://www.moshier.net)
-    (3) [The CLoudy Project]( https://pa.as.uky.edu/gary/cloudy-project)
-    (4) [GADGET code](https://www.h-its.org/2014/10/29/gadget-code/)
-    (5) [PLUTO code](http://plutocode.ph.unito.it)
-    (6) [Nyx code](https://amrex-astro.github.io/Nyx/docs_html/index.html)
-    (7) [Amrvis code](https://amrex-codes.github.io/amrex/docs_html/Visualization.html)
-    (8) [AMReX code](https://ccse.lbl.gov/AMReX/index.html)
-    (9) [FLASH code](http://flash.uchicago.edu/site/)
-    (10) [The RAMSES code](https://www.ics.uzh.ch/~teyssier/ramses/RAMSES.html)
+    1. [Astrophysics Source Code Library](https://ascl.net) - a free online registry for source codes of interest to astronomers and astrophysicists.
+    2. [Astronomy and numerical software source codes](http://www.moshier.net)
+    3. [The CLoudy Project]( https://pa.as.uky.edu/gary/cloudy-project)
+    4. [GADGET code](https://www.h-its.org/2014/10/29/gadget-code/)
+    5. [PLUTO code](http://plutocode.ph.unito.it)
+    6. [Nyx code](https://amrex-astro.github.io/Nyx/docs_html/index.html)
+    7. [Amrvis code](https://amrex-codes.github.io/amrex/docs_html/Visualization.html)
+    8. [AMReX code](https://ccse.lbl.gov/AMReX/index.html)
+    9. [FLASH code](http://flash.uchicago.edu/site/)
+    10. [The RAMSES code](https://www.ics.uzh.ch/~teyssier/ramses/RAMSES.html)
 12. [The Enzo Project](https://enzo-project.org)
 13. [The yt project](https://yt-project.org)
 

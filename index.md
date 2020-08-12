@@ -30,7 +30,7 @@ __Disclaimer__: This webpage started as a side project/hobby/learning web-design
 2. [Meetings](./pages/meetings.md) - conferences, workshops, schools, and more.
 
 ## Articles/Journals
-1. [NASA-ADS](https://ui.adsabs.harvard.edu) - modern form
+1. [NASA-ADS](https://ui.adsabs.harvard.edu) - Modern Form
 2. [NASA-ADS](https://ui.adsabs.harvard.edu/classic-form) - classic form
 3. [arXiv.org > astro-ph](https://arxiv.org/archive/astro-ph) - mirrors : [Germany](http://de.arxiv.org), [India](http://in.arxiv.org), [China](http://arxivsi.las.ac.cn/home.htm;jsessionid=824B7F9CED8C85D0B8C65ACE4384AFA3)
 4. [INSPIRE](https://inspirehep.net) - High-Energy Physics content
